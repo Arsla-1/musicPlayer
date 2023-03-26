@@ -34,6 +34,7 @@ nav div {
   width: 300px;
   padding: 20px 40px;
   background: #e03131;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .artwork {
